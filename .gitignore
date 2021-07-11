@@ -3,4 +3,5 @@ staticfiles
 settings.py
 db.sqlite3
 *.py[co]
-
+venv
+newenv
